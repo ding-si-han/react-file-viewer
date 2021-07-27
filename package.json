@@ -1,7 +1,7 @@
 {
-  "name": "react-file-viewer",
-  "version": "1.2.1",
-  "description": "Extendable file viewer for web",
+  "name": "@dev_explorer/react-file-viewer",
+  "version": "1.2.1b",
+  "description": "Extendable file viewer for web with support for sending with credentials for docx",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "repository": {

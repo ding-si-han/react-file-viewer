@@ -3,6 +3,10 @@
 
 Extendable file viewer for web
 
+**Credits to Original Authors and Creators of https://www.npmjs.com/package/react-file-viewer**
+This forked version enables requests with credentials such that cookies are sent along with the XMLHttp Requests.
+
+
 ## Supported file formats:
 
  - Images: png, jpeg, gif, bmp, including 360-degree images
